@@ -14,4 +14,4 @@
 🔹 Análise de Vendas em Python  
 
 ## Contato
-📧 seuemail@gmail.com
+📧 marcos.mellin0157@gmail.com
