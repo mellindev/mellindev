@@ -1,7 +1,7 @@
 # Olá, eu sou o Marcos 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento back-end  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.  
+💻 Focado em desenvolvimento de banco de dados e cibersegurança.  
 
 ## Tecnologias
 - Java
